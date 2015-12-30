@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GSM GPRS GPS Bluetooth for SIM800/808/900/908 Library
 ======
 
@@ -46,3 +47,6 @@ As well as, but not limited to, the following individuals:
  - [@madmaze](https://github.com/madmaze)
  - commiters from google code: https://code.google.com/p/gsm-shield-arduino/people/list
 names listed in no particular order.
+=======
+# gsm-library
+>>>>>>> 48e595565ebee81edb62df5b25bfe5a5eeb6fec2
